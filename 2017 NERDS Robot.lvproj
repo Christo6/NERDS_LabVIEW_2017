@@ -127,6 +127,7 @@ AddOutputFilter chunkFilter
 		<Item Name="1726 Drive With PID.vi" Type="VI" URL="../VIs/1726/1726 Drive With PID.vi"/>
 		<Item Name="1726 Infinite Loop.vi" Type="VI" URL="../VIs/1726/1726 Infinite Loop.vi"/>
 		<Item Name="1726 Turn by Angle.vi" Type="VI" URL="../VIs/1726/1726 Turn by Angle.vi"/>
+		<Item Name="Apply Trim.vi" Type="VI" URL="../VIs/1726/Apply Trim.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../VIs/Team Code/Robot Main.vi"/>
 		<Item Name="Speed Sensitivity.vi" Type="VI" URL="../VIs/1726/Speed Sensitivity.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -783,7 +784,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">36</Property>
+				<Property Name="Bld_version.build" Type="Int">38</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
