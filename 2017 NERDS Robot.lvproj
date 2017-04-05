@@ -110,6 +110,13 @@ AddOutputFilter chunkFilter
 		<Property Name="target.WebServer.ViAccess" Type="Str">+*</Property>
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
+		<Item Name="1726" Type="Folder">
+			<Item Name="1726 Drive With PID.vi" Type="VI" URL="../VIs/1726/1726 Drive With PID.vi"/>
+			<Item Name="1726 Infinite Loop.vi" Type="VI" URL="../VIs/1726/1726 Infinite Loop.vi"/>
+			<Item Name="1726 Turn by Angle.vi" Type="VI" URL="../VIs/1726/1726 Turn by Angle.vi"/>
+			<Item Name="Apply Trim.vi" Type="VI" URL="../VIs/1726/Apply Trim.vi"/>
+			<Item Name="Speed Sensitivity.vi" Type="VI" URL="../VIs/1726/Speed Sensitivity.vi"/>
+		</Item>
 		<Item Name="Support Code" Type="Folder">
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../VIs/Support Code/Elapsed Times.vi"/>
 		</Item>
@@ -124,12 +131,8 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../VIs/Team Code/Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../VIs/Team Code/Vision Processing.vi"/>
 		</Item>
-		<Item Name="1726 Drive With PID.vi" Type="VI" URL="../VIs/1726/1726 Drive With PID.vi"/>
-		<Item Name="1726 Infinite Loop.vi" Type="VI" URL="../VIs/1726/1726 Infinite Loop.vi"/>
-		<Item Name="1726 Turn by Angle.vi" Type="VI" URL="../VIs/1726/1726 Turn by Angle.vi"/>
-		<Item Name="Apply Trim.vi" Type="VI" URL="../VIs/1726/Apply Trim.vi"/>
+		<Item Name="Arcade Drive with Joysticks.vi" Type="VI" URL="../VIs/1726/Arcade Drive with Joysticks.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../VIs/Team Code/Robot Main.vi"/>
-		<Item Name="Speed Sensitivity.vi" Type="VI" URL="../VIs/1726/Speed Sensitivity.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="8.6CompatibleGlobalVar.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/config.llb/8.6CompatibleGlobalVar.vi"/>
